@@ -1,0 +1,16 @@
+[package]
+name = "ggestri"
+version = "0.1.0"
+authors = ["Ashley <expenses@airmail.cc>"]
+
+[dependencies]
+ggez = "*"
+spade = "*"
+image = "*"
+serde = "*"
+serde_json = "*"
+serde_derive = "*"
+structopt = "*"
+structopt-derive = "*"
+error-chain = "*"
+svg = "*"
